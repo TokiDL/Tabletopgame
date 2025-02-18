@@ -1,6 +1,9 @@
 package cards;
 
+import java.util.Scanner;
+
 public class Card_Holder {
+
 
     // Methode, die die Nachricht basierend auf der Zufallszahl zurückgibt
     public static String getCardMessage(int cardNumber) {
